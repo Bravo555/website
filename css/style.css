@@ -17,6 +17,7 @@ header h1 {
 
 .links {
   list-style: none;
+  padding: 0;
 }
 
 .links .link-twitter:hover {
