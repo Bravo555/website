@@ -27,6 +27,10 @@ header h1 {
   margin: 0 1em;
 }
 
+.links li:first-of-type {
+  margin-left: 0;
+}
+
 .links a {
   text-decoration: none;
   color: #bbb;
